@@ -391,27 +391,4 @@ if episode % 100 == 0:
 ✅ Q-learning beats Greedy by 5-15%  
 ✅ All 3 policies produce similar service rates (≈100%)
 
----
 
-## 🎓 FINAL NOTES
-
-**This implementation is:**
-- ✅ Complete & runnable
-- ✅ Documented with comments
-- ✅ Tested feasibility (3500 states × 16 actions is tractable)
-- ✅ Designed for your thesis scope
-
-**What you get:**
-- 📊 Chapter 5 results in 3-4 hours
-- 🎯 Statistical evidence that Q-learning works
-- 📈 Publication-ready figures & tables
-- 🚀 Confidence to defend your thesis
-
-**Good luck with your implementation!** 🎉
-
----
-
-**Questions?** Review the comments in both `.py` files - they contain detailed explanations for every function.
-
-**Token budget used:** ~6,800 / 80,000 (8.5%)  
-**Remaining tokens:** ~73,000 for debugging support! 💪
